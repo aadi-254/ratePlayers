@@ -101,9 +101,6 @@
         l.addEventListener("click", () => {
             m.style.display = 'none';
         })
-        window.onload = () => {
-    if (!players.length) fetchPlayers(); 
-};
 
         const socket = io("http://localhost:3000");
         let players = [];
