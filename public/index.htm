@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rate The Player</title>
+    <script src="https://cdn.socket.io/4.3.2/socket.io.min.js"></script>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: #00ffcc;
+        }
+
+        .player-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 50px;
+        }
+
+        .player-card {
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 255, 204, 0.5);
+            cursor: pointer;
+            transition: transform 0.3s;
+            width: 250px;
+        }
+
+        .player-card:hover {
+            transform: scale(1.05);
+        }
+
+        .player-name {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #00ffcc;
+        }
+
+        .player-info {
+            font-size: 1em;
+            color: #bbbbbb;
+            margin-top: 5px;
+        }
+
+        .notice {
+            background: #222;
+            color: #00ffcc;
+            padding: 10px;
+            text-align: center;
+            font-size: 1em;
+            border-radius: 5px;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            box-shadow: 0px 0px 10px rgba(0, 255, 204, 0.5);
+        }
+
+        #top-players {
+            margin-top: 30px;
+            padding: 10px;
+            background: #222;
+            border-radius: 10px;
+            display: inline-block;
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="notice" id="notice">
+        <div style="display: flex;align-items: center;justify-content: space-around;margin-bottom: 0px;"><h2>hello guys ! </h2> <h1 id="cancel" style="color: red;">X</h1></div>
+        <p style="margin-top: -5px;">
+            🏏 This site is created just for fun and for cricket lovers. Enjoy and rate your favorite players with others! 🎉
+        </p>
+        <p> <b> the rating system is simply based on chess elo rating system</b></p>
+        
+        
+        </div>
+    <h1>Rate your favourite one?</h1>
+    <div class="player-container" id="players">
+        <!-- Players will be inserted here dynamically -->
+    </div>
+
+    <h2 style="margin-top: 50px;">🏆 Top 10 Players 🏆</h2>
+    <div id="top-players">Loading...</div>
+
+
+    <script>
+        let m = document.getElementById("notice");
+        let l = document.getElementById("cancel");
+        l.addEventListener("click", () => {
+            m.style.display = 'none';
+        })
+
+        const socket = io("http://localhost:3000");
+        let players = [];
+
+        async function fetchPlayers() {
+            try {
+                const response = await fetch('data.json'); // Ensure 'players.json' exists
+                let playersData = await response.json();
+                // console.log(playersData.squad)
+                players = playersData.squad;
+                loadPlayers();
+            } catch (error) {
+                console.error('Error loading player data:', error);
+            }
+        }
+
+        function loadPlayers() {
+            console.log(players.length)
+            if (players.length < 2) return;
+            let [p1, p2] = players.sort(() => 0.5 - Math.random()).slice(0, 2);
+            document.getElementById('players').innerHTML = `
+            <div class="player-card" onclick="vote('${p1.name}', '${p2.name}')">
+                <div class="player-name">${p1.name}</div>
+                <div class="player-info">Role: ${p1.role}</div>
+                <div class="player-info">Price: ${p1.price}</div>
+                <div class="player-info">Team: ${p1.team}</div>
+            </div>
+            <h1>VS</h1>
+            <div class="player-card" onclick="vote('${p2.name}', '${p1.name}')">
+                <div class="player-name">${p2.name}</div>
+                <div class="player-info">Role: ${p1.role}</div>
+                <div class="player-info">Price: ${p2.price}</div>
+                <div class="player-info">Team: ${p2.team}</div>
+            </div>
+        `;
+        }
+
+        function vote(winner, loser) {
+            socket.emit("vote", { winner, loser });
+            loadPlayers(); // Load new matchup after voting
+        }
+
+        // Update rankings in real time
+        socket.on("updateRatings", (ratings) => {
+            let arr = Object.entries(ratings)
+                .map(([name, elo]) => ({ name, elo })) // Convert object to array of objects
+                .sort((a, b) => b.elo - a.elo) // Sort by Elo rating in descending order
+                .slice(0, 10); // Get top 10 players
+
+            let html = "<ul>";
+            arr.forEach(player => {
+                html += `<li>${player.name}: ${player.elo} Elo</li>`;
+            });
+            html += "</ul>";
+
+            document.getElementById("top-players").innerHTML = html; // Update the UI
+        });
+
+        window.onload = fetchPlayers;
+    </script>
+</body>
+
+</html>

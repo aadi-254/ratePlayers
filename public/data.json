@@ -1,0 +1,1324 @@
+{
+  "squad": [
+    {
+      "name": "MS Dhoni",
+      "role": "Wicket-keeper",
+      "price": "4 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Vansh Bedi",
+      "role": "Wicket-keeper",
+      "price": "55 lakh",
+      "team": "CSK"
+    },
+    {
+      "name": "Devon Conway",
+      "role": "Batsman",
+      "price": "6.25 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "role": "Batsman",
+      "price": "18 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Shaik Rasheed",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "CSK"
+    },
+    {
+      "name": "Andre Siddarth",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "CSK"
+    },
+    {
+      "name": "Rahul Tripathi",
+      "role": "Batsman",
+      "price": "3.40 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Shivam Dube",
+      "role": "All-rounder",
+      "price": "12 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "role": "All-rounder",
+      "price": "18 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Vijay Shankar",
+      "role": "All-rounder",
+      "price": "1.20 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Deepak Hooda",
+      "role": "All-rounder",
+      "price": "1.70 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Anshul Kamboj",
+      "role": "All-rounder",
+      "price": "3.40 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Rachin Ravindra",
+      "role": "All-rounder",
+      "price": "4 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Ravichandaran Ashwin",
+      "role": "All-rounder",
+      "price": "9.75 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Sam Curran",
+      "role": "All-rounder",
+      "price": "2.40 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Kamlesh Nagarkoti",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "CSK"
+    },
+    {
+      "name": "Ramakrishna Ghosh",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "CSK"
+    },
+    {
+      "name": "Matheesha Pathirana",
+      "role": "Bowler",
+      "price": "13 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Mukesh Choudhary",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "CSK"
+    },
+    {
+      "name": "Nathan Ellis",
+      "role": "Bowler",
+      "price": "2 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Gurjapneet Singh",
+      "role": "Bowler",
+      "price": "2.20 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Noor Ahmad",
+      "role": "Bowler",
+      "price": "10 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Khaleel Ahmed",
+      "role": "Bowler",
+      "price": "4.80 crore",
+      "team": "CSK"
+    },
+    {
+      "name": "Shreyas Gopal",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "CSK"
+    },
+    {
+      "name": "Harry Brook",
+      "role": "Batter",
+      "price": "6.25 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Jake Fraser-Mcgurk",
+      "role": "Batter",
+      "price": "9 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Faf Du Plessis",
+      "role": "Batter",
+      "price": "2 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Tristan Stubbs",
+      "role": "Wicket-keeper",
+      "price": "10 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Abishek Porel",
+      "role": "Wicket-keeper",
+      "price": "4 crore",
+      "team": "DC"
+    },
+    {
+      "name": "KL Rahul",
+      "role": "Wicket-keeper",
+      "price": "14 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Donovan Ferreira",
+      "role": "Wicket-keeper",
+      "price": "75 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Axar Patel",
+      "role": "All-rounder",
+      "price": "16.50 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Sameer Rizvi",
+      "role": "All-rounder",
+      "price": "95 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Ashutosh Sharma",
+      "role": "All-rounder",
+      "price": "3.80 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Darshan Nalkande",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Vipraj Nigam",
+      "role": "All-rounder",
+      "price": "50 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Ajay Mandal",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Madhav Tiwari",
+      "role": "All-rounder",
+      "price": "40 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Manvanth Kumar L",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Tripurana Vijay",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "role": "Bowler",
+      "price": "13.25 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Dushmantha Chameera",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "team": "DC"
+    },
+    {
+      "name": "Mitchell Starc",
+      "role": "Bowler",
+      "price": "11.75 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Mohit Sharma",
+      "role": "Bowler",
+      "price": "2.2 crore",
+      "team": "DC"
+    },
+    {
+      "name": "T. Natarajan",
+      "role": "Bowler",
+      "price": "10.75 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Mukesh Kumar",
+      "role": "Bowler",
+      "price": "8 crore",
+      "team": "DC"
+    },
+    {
+      "name": "Shubman Gill",
+      "role": "Batter",
+      "price": "16.50 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Sai Sudharsan",
+      "role": "Batter",
+      "price": "8.50 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Glenn Phillips",
+      "role": "Batter",
+      "price": "2 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Kumar Kushagra",
+      "role": "Wicket-keeper",
+      "price": "65 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "Anuj Rawat",
+      "role": "Wicket-keeper",
+      "price": "30 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "Jos Buttler",
+      "role": "Wicket-keeper",
+      "price": "15.75 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Rashid Khan",
+      "role": "All-rounder",
+      "price": "18 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Rahul Tewatia",
+      "role": "All-rounder",
+      "price": "4 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Shahrukh Khan",
+      "role": "All-rounder",
+      "price": "4 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Nishant Sindhu",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "R. Sai Kishore",
+      "role": "All-rounder",
+      "price": "2 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Gerald Coetzee",
+      "role": "All-rounder",
+      "price": "2.40 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Jayant Yadav",
+      "role": "All-rounder",
+      "price": "75 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "Arshad Khan",
+      "role": "All-rounder",
+      "price": "1.30 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Sherfane Rutherford",
+      "role": "All-rounder",
+      "price": "2.60 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Mahipal Lomror",
+      "role": "All-rounder",
+      "price": "1.70 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Washington Sundar",
+      "role": "All-rounder",
+      "price": "3.20 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Karim Janat",
+      "role": "All-rounder",
+      "price": "75 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "Manav Suthar",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "Gurnoor Singh Brar",
+      "role": "Bowler",
+      "price": "1.30 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Ishant Sharma",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "Kagiso Rabada",
+      "role": "Bowler",
+      "price": "10.75 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Prasidh Krishna",
+      "role": "Bowler",
+      "price": "9.50 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Mohammad Siraj",
+      "role": "Bowler",
+      "price": "12.25 crore",
+      "team": "GT"
+    },
+    {
+      "name": "Kulwant Khejroliya",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "GT"
+    },
+    {
+      "name": "Rinku Singh",
+      "role": "Batter",
+      "price": "13 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Angkrish Raghuvanshi",
+      "role": "Batter",
+      "price": "3 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Manish Pandey",
+      "role": "Batter",
+      "price": "75 lakh",
+      "team": "KKR"
+    },
+    {
+      "name": "Ajinkya Rahane",
+      "role": "Batter",
+      "price": "1.5 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Quinton De Kock",
+      "role": "Wicket-keeper",
+      "price": "3.60 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Rahmanullah Gurbaz",
+      "role": "Wicket-keeper",
+      "price": "2 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Luvnith Sisodia",
+      "role": "Wicket-keeper",
+      "price": "30 lakh",
+      "team": "KKR"
+    },
+    {
+      "name": "Sunil Narine",
+      "role": "All-rounder",
+      "price": "12 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Andre Russell",
+      "role": "All-rounder",
+      "price": "12 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Ramandeep Singh",
+      "role": "All-rounder",
+      "price": "4 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Rovman Powell",
+      "role": "All-rounder",
+      "price": "1.50 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Venkatesh Iyer",
+      "role": "All-rounder",
+      "price": "23.75 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Anukul Roy",
+      "role": "All-rounder",
+      "price": "40 lakh",
+      "team": "KKR"
+    },
+    {
+      "name": "Moeen Ali",
+      "role": "All-rounder",
+      "price": "2 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Varun Chakaravarthy",
+      "role": "Bowler",
+      "price": "12 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Harshit Rana",
+      "role": "Bowler",
+      "price": "4 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Vaibhav Arora",
+      "role": "Bowler",
+      "price": "1.8 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Mayank Markande",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "KKR"
+    },
+    {
+      "name": "Anrich Nortje",
+      "role": "Bowler",
+      "price": "6.50 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Spencer Johnson",
+      "role": "Bowler",
+      "price": "2.80 crore",
+      "team": "KKR"
+    },
+    {
+      "name": "Umran Malik",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "team": "KKR"
+    },
+    {
+      "name": "Aiden Markram",
+      "role": "Batter",
+      "price": "2 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "David Miller",
+      "role": "Batter",
+      "price": "7.50 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Himmat Singh",
+      "role": "Batter",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Ayush Badoni",
+      "role": "Batter",
+      "price": "4 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Nicholas Pooran",
+      "role": "Wicket-keeper",
+      "price": "21 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Aryan Juyal",
+      "role": "Wicket-keeper",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Rishab Pant",
+      "role": "Wicket-keeper",
+      "price": "27 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Shahbaz Ahamad",
+      "role": "All-rounder",
+      "price": "2.40 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Abdul Samad",
+      "role": "All-rounder",
+      "price": "4.20 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Yuvraj Chaudhary",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Mitchell Marsh",
+      "role": "All-rounder",
+      "price": "3.40 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Arshin Kulkarni",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Rajvardhan Hangargekar",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "role": "Bowler",
+      "price": "11 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Mayank Yadav",
+      "role": "Bowler",
+      "price": "11 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Mohsin Khan",
+      "role": "Bowler",
+      "price": "4 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Akash Deep",
+      "role": "Bowler",
+      "price": "8 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Akash Singh",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "M. Siddharth",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Digvesh Singh",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Shamar Joseph",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Avesh Khan",
+      "role": "Bowler",
+      "price": "9.75 crore",
+      "team": "LSG"
+    },
+    {
+      "name": "Prince Yadav",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "LSG"
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "role": "Bowler",
+      "price": "12 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "role": "Batsman",
+      "price": "8 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Tilak Verma",
+      "role": "Batsman",
+      "price": "8 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Bevan John Jacobs",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Ryan Rickelton",
+      "role": "Wicket-keeper",
+      "price": "1 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Robin Minz",
+      "role": "Wicket-keeper",
+      "price": "65 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Shrijith Krishnan",
+      "role": "Wicket-keeper",
+      "price": "30 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Hardik Pandya",
+      "role": "All-rounder",
+      "price": "16.35 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Naman Dhir",
+      "role": "All-rounder",
+      "price": "5.25 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Raj Angad Bawa",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Will Jacks",
+      "role": "All-rounder",
+      "price": "5.25 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Mitchell Santner",
+      "role": "All-rounder",
+      "price": "2 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Vignesh Puthur",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Ashwani Kumar",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Allah Ghazanfar",
+      "role": "Bowler",
+      "price": "4.80 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Reece Topley",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Karn Sharma",
+      "role": "Bowler",
+      "price": "50 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Trent Boult",
+      "role": "Bowler",
+      "price": "12.50 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Deepak Chahar",
+      "role": "Bowler",
+      "price": "9.25 crore",
+      "team": "MI"
+    },
+    {
+      "name": "Venkata Satyanarayana Penmetsa",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Arjun Tendulkar",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Lizaad Williams",
+      "role": "Bowler",
+      "price": "75 lakh",
+      "team": "MI"
+    },
+    {
+      "name": "Musheer Khan",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "PBKS"
+    },
+    {
+      "name": "Pyla Avinash",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "PBKS"
+    },
+    {
+      "name": "Prabhsimran Singh",
+      "role": "Wicket-keeper",
+      "price": "4 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Vishnu Vinod",
+      "role": "Wicket-keeper",
+      "price": "95 lakh",
+      "team": "PBKS"
+    },
+    {
+      "name": "Josh Inglis",
+      "role": "Wicket-keeper",
+      "price": "2.60 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Shashank Singh",
+      "role": "All-rounder",
+      "price": "5.50 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Suryansh Shedge",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "PBKS"
+    },
+    {
+      "name": "Harpreet Brar",
+      "role": "All-rounder",
+      "price": "1.50 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Marco Jansen",
+      "role": "All-rounder",
+      "price": "7 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Aaron Hardie",
+      "role": "All-rounder",
+      "price": "1.25 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Azmatullah Omarzai",
+      "role": "All-rounder",
+      "price": "2.4 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Priyansh Arya",
+      "role": "All-rounder",
+      "price": "3.8 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Pravin Dubey",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "PBKS"
+    },
+    {
+      "name": "Glenn Maxwell",
+      "role": "All-rounder",
+      "price": "4.2 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Marcus Stoinis",
+      "role": "All-rounder",
+      "price": "11 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Yash Thakur",
+      "role": "Bowler",
+      "price": "1.6 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Vyshak Vijaykumar",
+      "role": "Bowler",
+      "price": "1.8 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Kuldeep Sen",
+      "role": "Bowler",
+      "price": "80 lakh",
+      "team": "PBKS"
+    },
+    {
+      "name": "Xavier Bartlett",
+      "role": "Bowler",
+      "price": "80 lakh",
+      "team": "PBKS"
+    },
+    {
+      "name": "Arshdeep Singh",
+      "role": "Bowler",
+      "price": "18 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "role": "Bowler",
+      "price": "18 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Lockie Ferguson",
+      "role": "Bowler",
+      "price": "2 crore",
+      "team": "PBKS"
+    },
+    {
+      "name": "Sanju Samson",
+      "role": "Wicket-keeper",
+      "price": "18 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "role": "Batsman",
+      "price": "18 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Shimron Hetmyer",
+      "role": "Batsman",
+      "price": "11 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Shubham Dubey",
+      "role": "Batsman",
+      "price": "80 lakh",
+      "team": "RR"
+    },
+    {
+      "name": "Dhruv Jurel",
+      "role": "Wicket-keeper",
+      "price": "14 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Kunal Rathore",
+      "role": "Wicket-keeper",
+      "price": "30 lakh",
+      "team": "RR"
+    },
+    {
+      "name": "Riyan Parag",
+      "role": "All-rounder",
+      "price": "14 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Vaibhav Suryavanshi",
+      "role": "Batsman",
+      "price": "1.10 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Yudhvir Charak",
+      "role": "All-rounder",
+      "price": "35 lakh",
+      "team": "RR"
+    },
+    {
+      "name": "Nitish Rana",
+      "role": "All-rounder",
+      "price": "4.20 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Tushar Deshpande",
+      "role": "Bowler",
+      "price": "6.50 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Akash Madhwal",
+      "role": "Bowler",
+      "price": "1.20 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Sandeep Sharma",
+      "role": "Bowler",
+      "price": "4 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Kumar Kartikeya",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "RR"
+    },
+    {
+      "name": "Kwena Maphaka",
+      "role": "Bowler",
+      "price": "1.50 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Wanindu Hasaranga",
+      "role": "Bowler",
+      "price": "5.25 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Maheesh Theekshana",
+      "role": "Bowler",
+      "price": "4.40 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Fazalhaq Farooqi",
+      "role": "Bowler",
+      "price": "2 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Jofra Archer",
+      "role": "Bowler",
+      "price": "12.50 crore",
+      "team": "RR"
+    },
+    {
+      "name": "Rajat Patidar",
+      "role": "Batsman",
+      "price": "11 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Virat Kohli",
+      "role": "Batsman",
+      "price": "21 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Swastik Chhikara",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "RCB"
+    },
+    {
+      "name": "Devdutt Padikkal",
+      "role": "Batsman",
+      "price": "2 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Jitesh Sharma",
+      "role": "Wicket-keeper",
+      "price": "11 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Phil Salt",
+      "role": "Wicket-keeper",
+      "price": "11.50 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Swapnil Singh",
+      "role": "All-rounder",
+      "price": "50 lakh",
+      "team": "RCB"
+    },
+    {
+      "name": "Jacob Bethell",
+      "role": "All-rounder",
+      "price": "2.60 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Romario Shepherd",
+      "role": "All-rounder",
+      "price": "1.5 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Liam Livingstone",
+      "role": "All-rounder",
+      "price": "8.75 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Krunal Pandya",
+      "role": "All-rounder",
+      "price": "5.75 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Tim David",
+      "role": "All-rounder",
+      "price": "3 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Manoj Bhandage",
+      "role": "All-rounder",
+      "price": "30 lakh",
+      "team": "RCB"
+    },
+    {
+      "name": "Mohit Rathee",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "RCB"
+    },
+    {
+      "name": "Yash Dayal",
+      "role": "Bowler",
+      "price": "5 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Lungisani Ngidi",
+      "role": "Bowler",
+      "price": "1 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Rasikh Dar",
+      "role": "Bowler",
+      "price": "6 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Suyash Sharma",
+      "role": "Bowler",
+      "price": "2.60 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Nuwan Thushara",
+      "role": "Bowler",
+      "price": "1.60 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Josh Hazlewood",
+      "role": "Bowler",
+      "price": "12.50 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Bhuvneshwar Kumar",
+      "role": "Bowler",
+      "price": "10.75 crore",
+      "team": "RCB"
+    },
+    {
+      "name": "Abhinandan Singh",
+      "role": "Bowler",
+      "price": "30 lakh",
+      "team": "RCB"
+    },
+    {
+      "name": "Abhinav Manohar",
+      "role": "Batsman",
+      "price": "3.20 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Atharva Taide",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "SRH"
+    },
+    {
+      "name": "Sachin Baby",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "SRH"
+    },
+    {
+      "name": "Aniket Verma",
+      "role": "Batsman",
+      "price": "30 lakh",
+      "team": "SRH"
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "role": "Wicket-keeper",
+      "price": "23 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Ishan Kishan",
+      "role": "Wicket-keeper",
+      "price": "11.25 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Pat Cummins",
+      "role": "All-rounder",
+      "price": "18 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Nitish Reddy",
+      "role": "All-rounder",
+      "price": "6 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Abhishek Sharma",
+      "role": "All-rounder",
+      "price": "14 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Travis Head",
+      "role": "All-rounder",
+      "price": "14 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Brydon Carse",
+      "role": "All-rounder",
+      "price": "1 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Kamindu Mendis",
+      "role": "All-rounder",
+      "price": "75 lakh",
+      "team": "SRH"
+    },
+    {
+      "name": "Harshal Patel",
+      "role": "All-rounder",
+      "price": "8 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Rahul Chahar",
+      "role": "Bowler",
+      "price": "3.20 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Jaydev Unadkat",
+      "role": "Bowler",
+      "price": "1 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Simarjeet Singh",
+      "role": "Bowler",
+      "price": "1.50 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Zeeshan Ansari",
+      "role": "Bowler",
+      "price": "40 lakh",
+      "team": "SRH"
+    },
+    {
+      "name": "Mohammad Shami",
+      "role": "Bowler",
+      "price": "10 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Adam Zampa",
+      "role": "Bowler",
+      "price": "2.40 crore",
+      "team": "SRH"
+    },
+    {
+      "name": "Eshan Malinga",
+      "role": "Bowler",
+      "price": "1.20 crore",
+      "team": "SRH"
+    }
+  ]
+}
